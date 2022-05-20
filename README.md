@@ -34,6 +34,7 @@
 ```JavaScript
 这是多行代码
 ```
-![一张图片](1.png)
 
-我的网址是[网站](http://google.com)
+这是我最不想让朋友看到的一张照片![404 not found](1.png)
+
+给大家推荐一个超好用的网站：[Google.com](http://google.com)
